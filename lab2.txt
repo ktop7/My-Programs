@@ -1,0 +1,11 @@
+1. Are your programs accepted?
+My "Hello World" program was accepted, but not the other one.
+
+2. Why the programs are/aren't accepted?
+My "cold" program functionally works as described, but the format is probably not exactly what the website's compiler wants it to be like.
+
+3. What did you learn from this excercise?
+I learned that 'cin' can inherently skip whitespace in order to read multiple inputs.
+
+4. Anything else you want to communicate with the instructor?
+Not for now.
